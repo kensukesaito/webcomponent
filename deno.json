@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@std/http": "jsr:@std/http"
+  },
+  "tasks": {
+    "serve": "deno serve --allow-read server.ts"
+  }
+}
